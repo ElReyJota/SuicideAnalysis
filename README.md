@@ -8,7 +8,7 @@ The dataset in question its one on suicide from 1985-2016 obtained in Kaggle, it
 I chose this topic due to personal interest on the subject. This will help me personally and give me a deeper understanding on what factors are in suicide.
 
 Code walkthrough:
-[Software Demo Video](http://youtube.link.goes.here)
+[Suicide Analysis](https://youtu.be/vLNL-pLiTD0)
 
 # Data Analysis Results
 
